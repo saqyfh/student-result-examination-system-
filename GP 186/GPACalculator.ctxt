@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GPACalculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=username\ password
+comment2.target=int\ login(java.lang.String,\ java.lang.String)
+comment3.params=username\ password
+comment3.target=void\ existingUser(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ newUser()
+comment5.params=name\ id\ email\ ic\ address\ course
+comment5.target=void\ addSubject(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=name\ id\ email\ ic\ address\ course
+comment6.target=void\ goodbye(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=7
